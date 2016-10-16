@@ -9,8 +9,9 @@ interface, but I only use it for starting applications, looking up words in
 dictionary and doing simple arithmetic.
 
 Spotlight allows one to exclude specific directories from indexing, but what I
-need is a tool to only include specific directories. This tool provides the
-functionality.
+need is a tool to only include specific directories, so it will index only
+applications and System Preferences' applets, and not spend CPU cycles on the
+bulk of the filesystem contents. This tool provides the functionality.
 
 How to use it?
 --------------
